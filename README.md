@@ -19,5 +19,5 @@ Dashboard ini dirancang untuk menampilkan data dan statistik penting bagi data a
 ## Hasil Tampilan Data 2
 ![gambar2](./img/2.png)
 
-## Hasil Tampilan Data 1
+## Hasil Tampilan Data 3
 ![gambar3](./img/3.png)
