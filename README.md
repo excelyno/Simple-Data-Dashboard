@@ -11,3 +11,13 @@ Dashboard ini dirancang untuk menampilkan data dan statistik penting bagi data a
 2. Install dependensi dengan perintah:
    ```bash
    pip install -r requirements.txt
+
+
+## Hasil Tampilan Data 1
+![gambar1](./img/1.png)
+
+## Hasil Tampilan Data 2
+![gambar2](./img/2.png)
+
+## Hasil Tampilan Data 1
+![gambar3](./img/3.png)
